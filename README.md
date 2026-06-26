@@ -2,25 +2,6 @@
 
 > **数据驱动的东方命理研究者** | AI 性格分析 | 时间序列模式发现
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=lwjlume.lwjlume.github.io)
-![Profile Views](https://komarev.com/ghpvc/?username=lwjlume&label=Profile+views&color=blue)
-
----
-
-## 📊 GitHub Stats & 活动
-
-> 🪷 手动维护（零外部依赖）
-
-| 指标 | 数值 | 更新于 |
-|------|------|--------|
-| 📦 Public 仓库 | 1（lwjlume/lwjlume.github.io） | 2026-06-26 |
-| 🔒 Private 仓库 | 2（tianji, personal-invest） | 2026-06-26 |
-| 📝 已发布 Issue | 1 | 2026-06-26 |
-| 📚 已写文章 | 1（GitHub Issues 当个人博客的实践） | 2026-06-26 |
-| 🪷 长期计划 | 月 2-3 篇 Issue | 持续 |
-
-<!-- 这些数字会手动更新，不依赖外部 API -->
-
 ---
 
 ## 🪷 我做什么
@@ -37,6 +18,18 @@
 | 项目 | 说明 | 链接 |
 |------|------|------|
 | 📝 **lwjlume.github.io** | 你正在看这个 — 个人主页 + 文档门户 | [本站](https://lwjlume.github.io/) |
+
+---
+
+## 📚 最近文章
+
+> 🪷 主题混杂：命理研究 / AI 数据分析 / 改命实践 / 读书思考 / 个人探索
+
+（在仓库 [Issues](../../issues) 标签页查看所有文章，或直接点下面的链接）
+
+| 文章 | 日期 |
+|------|------|
+| [GitHub Issues 当个人博客的实践](../../issues/1) | 2026-06-26 |
 
 ---
 
@@ -76,34 +69,6 @@
 ✅ 5 模式个性化学习
 ✅ 三层共振评分系统
 ```
-
----
-
-## 📊 仓库 & 活动
-
-> 🪷 手动维护（零外部依赖）
-
-| 指标 | 数值 | 更新于 |
-|------|------|--------|
-| 📦 Public 仓库 | 1（lwjlume/lwjlume.github.io） | 2026-06-26 |
-| 🔒 Private 仓库 | 2（tianji, personal-invest） | 2026-06-26 |
-| 📝 已发布 Issue | 1 | 2026-06-26 |
-| 📚 已写文章 | 1（GitHub Issues 当个人博客的实践） | 2026-06-26 |
-| 🪷 长期计划 | 月 2-3 篇 Issue | 持续 |
-
----
-
-## 📚 最近文章
-
-> 🪷 主题混杂：命理研究 / AI 数据分析 / 改命实践 / 读书思考 / 个人探索
-
-（在仓库 [Issues](../../issues) 标签页查看所有文章，或直接点下面的链接）
-
-<!-- 最近文章将由 Issue 列表自动同步 -->
-
-| 文章 | 日期 |
-|------|------|
-| [GitHub Issues 当个人博客的实践](../../issues/1) | 2026-06-26 |
 
 ---
 
