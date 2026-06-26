@@ -26,6 +26,18 @@
 
 ---
 
+
+## 📚 最近文章
+
+> 🪷 主题混杂：命理研究 / AI 数据分析 / 改命实践 / 读书思考 / 个人探索
+
+（在仓库 [Issues](../../issues) 标签页查看所有文章，或直接点下面的链接）
+
+<!-- 最近文章将由 Issue 列表自动同步 -->
+
+| 编号 | 标题 | 分类 | 日期 |
+|------|------|------|------|
+| 加载中... | (自动从 Issues 拉取) | - | - |
 ## 🪷 核心方法论
 
 ### 1. 鱼眼效应（空间维度）
@@ -104,3 +116,26 @@
 ---
 
 <sub>📌 本站采用 GitHub Pages 托管 · 内容采用 MIT 协议 · 长期更新</sub>
+
+<!-- 自动从 GitHub Issues 拉取最近文章 -->
+<script>
+fetch('https://api.github.com/repos/lwjlume/lwjlume.github.io/issues?state=all&per_page=10')
+  .then(r => r.json())
+  .then(issues => {
+    const realIssues = issues.filter(i => !i.pull_request && i.title);
+    if (realIssues.length === 0) return;
+    const rows = realIssues.map(i => {
+      const labels = i.labels.map(l => l.name).filter(n => n !== '文章').join(', ') || '-';
+      const date = new Date(i.created_at).toISOString().split('T')[0];
+      return `| #${i.number} | [${i.title}](${i.html_url}) | ${labels} | ${date} |`;
+    }).join('\n');
+    const table = document.querySelector('table');
+    if (table) {
+      const lastRow = table.querySelector('tr:last-child');
+      if (lastRow && lastRow.textContent.includes('加载中')) {
+        lastRow.outerHTML = rows;
+      }
+    }
+  })
+  .catch(e => console.warn('Issues fetch error:', e));
+</script>
