@@ -7,6 +7,22 @@
 
 ---
 
+## 📊 GitHub Stats & 活动
+
+> 🪷 手动维护（零外部依赖）
+
+| 指标 | 数值 | 更新于 |
+|------|------|--------|
+| 📦 Public 仓库 | 1（lwjlume/lwjlume.github.io） | 2026-06-26 |
+| 🔒 Private 仓库 | 2（tianji, personal-invest） | 2026-06-26 |
+| 📝 已发布 Issue | 1 | 2026-06-26 |
+| 📚 已写文章 | 1（GitHub Issues 当个人博客的实践） | 2026-06-26 |
+| 🪷 长期计划 | 月 2-3 篇 Issue | 持续 |
+
+<!-- 这些数字会手动更新，不依赖外部 API -->
+
+---
+
 ## 🪷 我做什么
 
 - 🔬 **东方命理的数据化研究** — 鱼眼效应 / 多周期共振 / 7 政叠加验证
@@ -74,22 +90,6 @@
 | 文章 | 日期 |
 |------|------|
 | [GitHub Issues 当个人博客的实践](../../issues/1) | 2026-06-26 |
-
----
-
-## 📊 GitHub Stats & 活动
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lwjlume&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Streak Stats](https://streak-stats.demolab.com/?user=lwjlume&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lwjlume&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=lwjlume&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
-
-</div>
 
 ---
 
