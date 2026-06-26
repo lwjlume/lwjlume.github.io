@@ -208,12 +208,6 @@ fetch('https://api.github.com/repos/lwjlume/lwjlume.github.io/issues?state=all&p
    - 不追更新频率
    - 接受"5 年后才有人看到"
 
-🪷 长期：找到 1-2 个真心的学生
-   - 私下教学
-   - 不公开（避免法律风险）
-   - 深度影响
-```
-
 ---
 
 ## 🌟 哲学
