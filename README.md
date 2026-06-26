@@ -4,7 +4,7 @@
 
 ---
 
-## 🪷 我做什么
+## 我做什么
 
 - 🔬 **东方命理的数据化研究** — 鱼眼效应 / 多周期共振 / 7 政叠加验证
 - 🧠 **AI 性格分析工具** — 基于出生数据的统计相关性分析
@@ -39,7 +39,7 @@
 
 ---
 
-## 🪷 核心方法论
+## 核心方法论
 
 ### 1. 鱼眼效应（空间维度）
 
@@ -66,23 +66,8 @@
 
 ---
 
-## 📚 长期输出
 
-| 平台 | 形式 | 用途 |
-|------|------|------|
-| GitHub | 代码 + Issues | 个人主页门户 |
-| 本仓库 | README + Pages | 文档 + 混杂文章 |
-
----
-
-## 📬 联系方式
-
-- **Email**: 可在 GitHub Issues 联系
-- **GitHub**: [@lwjlume](https://github.com/lwjlume)
-
----
-
-## 🪷 哲学
+## 哲学
 
 > "**研究是为了理解，理解是为了更好地生活。**"
 >
@@ -118,3 +103,9 @@ fetch('https://api.github.com/repos/lwjlume/lwjlume.github.io/issues?state=all&p
   })
   .catch(e => console.warn('Issues fetch error:', e));
 </script>
+
+- **Email**: 可在 GitHub Issues 联系
+- **GitHub**: [@lwjlume](https://github.com/lwjlume)
+
+---
+
