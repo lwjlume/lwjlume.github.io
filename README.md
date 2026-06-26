@@ -36,6 +36,7 @@
 | 分类 | 文章 | 日期 |
 |------|------|------|
 | [🌀 个人探索](https://github.com/lwjlume/lwjlume.github.io/issues?q=label:个人探索) | [GitHub Issues 当个人博客的实践](../../issues/1) | 2026-06-26 |
+| [🔮 命理研究](https://github.com/lwjlume/lwjlume.github.io/issues?q=label:命理研究) | [伤官泄秀 vs 伤官配印：关系与本质](../../issues/2) | 2026-06-26 |
 
 ---
 
@@ -77,28 +78,6 @@
 ---
 
 
-<!-- 自动从 GitHub Issues 拉取最近文章 -->
-<script>
-fetch('https://api.github.com/repos/lwjlume/lwjlume.github.io/issues?state=all&per_page=10')
-  .then(r => r.json())
-  .then(issues => {
-    const realIssues = issues.filter(i => !i.pull_request && i.title);
-    if (realIssues.length === 0) return;
-    const rows = realIssues.map(i => {
-      const labels = i.labels.map(l => l.name).filter(n => n !== '文章').join(', ') || '-';
-      const date = new Date(i.created_at).toISOString().split('T')[0];
-      return `| #${i.number} | [${i.title}](${i.html_url}) | ${labels} | ${date} |`;
-    }).join('\n');
-    const table = document.querySelector('table');
-    if (table) {
-      const lastRow = table.querySelector('tr:last-child');
-      if (lastRow && (lastRow.textContent.includes('加载中') || lastRow.textContent.includes('GitHub Issues 当个人博客的实践'))) {
-        lastRow.outerHTML = rows;
-      }
-    }
-  })
-  .catch(e => console.warn('Issues fetch error:', e));
-</script>
 
 - **Email**: 可在 GitHub Issues 联系
 - **GitHub**: [@lwjlume](https://github.com/lwjlume)
