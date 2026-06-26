@@ -15,7 +15,13 @@ awk: cmd. line:7: warning: escape sequence `\&' treated as plain `&'
 ---
 
 
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=lwjlume.lwjlume.github.io)
+![Profile Views](https://komarev.com/ghpvc/?username=lwjlume&label=Profile+views&color=blue)
+
 ## 🪷 我做什么
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=lwjlume.lwjlume.github.io)
+![Profile Views](https://komarev.com/ghpvc/?username=lwjlume&label=Profile+views&color=blue)
+
 ## 🪷 我做什么
 
 
