@@ -25,17 +25,17 @@
 
 > ✨ 主题混杂（点击分类查看文章）:
 >
-> [🔮 命理研究](https://github.com/lwjlume/lwjlume.github.io/issues) ・
-> [🤖 人工智能](https://github.com/lwjlume/lwjlume.github.io/issues) ・
-> [🛠️ 改命实践](https://github.com/lwjlume/lwjlume.github.io/issues) ・
-> [📚 读书思考](https://github.com/lwjlume/lwjlume.github.io/issues) ・
-> [🌀 个人探索](https://github.com/lwjlume/lwjlume.github.io/issues)
+> [🔮 命理研究](https://github.com/lwjlume/lwjlume.github.io/issues?q=label:命理研究) ・
+> [🤖 人工智能](https://github.com/lwjlume/lwjlume.github.io/issues?q=label:人工智能) ・
+> [🛠️ 改命实践](https://github.com/lwjlume/lwjlume.github.io/issues?q=label:改命实践) ・
+> [📚 读书思考](https://github.com/lwjlume/lwjlume.github.io/issues?q=label:读书思考) ・
+> [🌀 个人探索](https://github.com/lwjlume/lwjlume.github.io/issues?q=label:个人探索)
 
 （在仓库 [Issues](https://github.com/lwjlume/lwjlume.github.io/issues) 标签页查看所有文章，或直接点下面的链接）
 
 | 分类 | 文章 | 日期 |
 |------|------|------|
-| [🌀 个人探索](https://github.com/lwjlume/lwjlume.github.io/issues) | [GitHub Issues 当个人博客的实践](../../issues/1) | 2026-06-26 |
+| [🌀 个人探索](https://github.com/lwjlume/lwjlume.github.io/issues?q=label:个人探索) | [GitHub Issues 当个人博客的实践](../../issues/1) | 2026-06-26 |
 
 ---
 
