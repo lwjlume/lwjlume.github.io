@@ -1,6 +1,8 @@
-awk: cmd. line:7: warning: escape sequence `\&' treated as plain `&'
 # 👋 你好，我是 lwjlume
-# 👋 你好，我是 lwjlume
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=lwjlume.lwjlume.github.io)
+![Profile Views](https://komarev.com/ghpvc/?username=lwjlume&label=Profile+views&color=blue)
+
 
 
 > **数据驱动的东方命理研究者** | AI 性格分析 | 时间序列模式发现
