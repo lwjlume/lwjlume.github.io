@@ -3,8 +3,6 @@
 > **数据驱动的东方命理研究者** | AI 性格分析 | 时间序列模式发现
 
 [![Status](https://img.shields.io/badge/Project-Active-brightgreen)]()
-[![Focus](https://img.shields.io/badge/Focus-Multi--Period%20Resonance-blue)]()
-[![Output](https://img.shields.io/badge/Output-Open%20Source-green)]()
 
 ---
 
@@ -21,7 +19,6 @@
 
 | 项目 | 说明 | 链接 |
 |------|------|------|
-| 🧠 **[tianji](https://github.com/lwjlume/tianji)** | AI 性格分析工具 + 命理研究框架 | [GitHub](https://github.com/lwjlume/tianji) |
 | 📝 **lwjlume.github.io** | 你正在看这个 — 个人主页 + 文档门户 | [本站](https://lwjlume.github.io/) |
 
 ---
@@ -92,7 +89,6 @@
 |------|------|------|
 | [GitHub](https://github.com/lwjlume) | 代码 + Issues | 个人主页门户 |
 | [本仓库](https://github.com/lwjlume/lwjlume.github.io) | README + Pages | 文档 + 混杂文章 |
-| [tianji](https://github.com/lwjlume/tianji) | AI 工具 + 报告 | 命理研究项目 |
 
 ---
 
