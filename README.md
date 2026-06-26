@@ -35,8 +35,8 @@
 
 | 分类 | 文章 | 日期 |
 |------|------|------|
-| [🌀 个人探索](https://github.com/lwjlume/lwjlume.github.io/issues?q=label:个人探索) | [GitHub Issues 当个人博客的实践](../../issues/1) | 2026-06-26 |
-| [🔮 命理研究](https://github.com/lwjlume/lwjlume.github.io/issues?q=label:命理研究) | [伤官泄秀 vs 伤官配印：关系与本质](../../issues/2) | 2026-06-26 |
+| [🌀 个人探索](https://github.com/lwjlume/lwjlume.github.io/issues?q=label:个人探索) | [GitHub Issues 当个人博客的实践](https://github.com/lwjlume/lwjlume.github.io/issues/1) | 2026-06-26 |
+| [🔮 命理研究](https://github.com/lwjlume/lwjlume.github.io/issues?q=label:命理研究) | [伤官泄秀 vs 伤官配印：关系与本质](https://github.com/lwjlume/lwjlume.github.io/issues/2) | 2026-06-26 |
 
 ---
 
