@@ -26,7 +26,7 @@
 > 🪷 主题混杂（点击分类查看文章）:
 >
 > - [🔮 命理研究](../../issues?q=label%3A命理研究)
-> - [🤖 AI 数据分析](../../issues?q=label%3AAI-数据分析)
+> - [🤖 AI 数据分析](../../issues?q=label%3A人工智能)
 > - [🪷 改命实践](../../issues?q=label%3A改命实践)
 > - [📚 读书思考](../../issues?q=label%3A读书思考)
 > - [🌀 个人探索](../../issues?q=label%3A个人探索)
