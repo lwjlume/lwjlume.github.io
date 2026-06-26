@@ -128,7 +128,7 @@ fetch('https://api.github.com/repos/lwjlume/lwjlume.github.io/issues?state=all&p
     const table = document.querySelector('table');
     if (table) {
       const lastRow = table.querySelector('tr:last-child');
-      if (lastRow && lastRow.textContent.includes('加载中')) {
+      if (lastRow && lastRow.textContent.includes('加载中') || lastRow.textContent.includes('暂无')) {
         lastRow.outerHTML = rows;
       }
     }
