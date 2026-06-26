@@ -17,7 +17,7 @@
 
 | 项目 | 说明 | 链接 |
 |------|------|------|
-| 📝 **lwjlume.github.io** | 你正在看这个 — 个人主页 + 文档门户 | [本站](https://lwjlume.github.io/) |
+| 📝 **lwjlume.github.io** | 你正在看这个 — lwjlume 的个人主页 | [本站](https://lwjlume.github.io/) |
 
 ---
 
