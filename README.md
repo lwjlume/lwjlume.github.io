@@ -21,7 +21,7 @@
 
 | 项目 | 说明 | 链接 |
 |------|------|------|
-| 🧠 **[tianji](https://github.com/lwjlume/tianji)** | AI 性格分析工具 + 命理研究框架 | [GitHub](https://github.com/lwjlume/tianji) · [Pages](https://lwjlume.github.io/tianji/) |
+| 🧠 **[tianji](https://github.com/lwjlume/tianji)** | AI 性格分析工具 + 命理研究框架 | [GitHub](https://github.com/lwjlume/tianji) |
 | 📝 **lwjlume.github.io** | 你正在看这个 — 个人主页 + 文档门户 | [本站](https://lwjlume.github.io/) |
 
 ---
