@@ -25,7 +25,7 @@
 
 > ✨ 主题混杂（点击分类查看文章）:
 >
-> 🪷 [🔮 命理研究](../../issues?q=label%3A命理研究) ・
+> [🔮 命理研究](../../issues?q=label%3A命理研究) ・
 > [🤖 人工智能](../../issues?q=label%3A人工智能) ・
 > [🛠️ 改命实践](../../issues?q=label%3A改命实践) ・
 > [📚 读书思考](../../issues?q=label%3A读书思考) ・
@@ -64,8 +64,6 @@
 
 ---
 
----
-
 
 ## 哲学
 
@@ -79,7 +77,6 @@
 
 ---
 
-<sub>📌 本站采用 GitHub Pages 托管 · 内容采用 MIT 协议 · 长期更新</sub>
 
 <!-- 自动从 GitHub Issues 拉取最近文章 -->
 <script>
@@ -109,3 +106,5 @@ fetch('https://api.github.com/repos/lwjlume/lwjlume.github.io/issues?state=all&p
 
 ---
 
+
+<sub>本站采用 GitHub Pages 托管 · 内容采用 MIT 协议 · 长期更新</sub>
